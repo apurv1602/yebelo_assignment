@@ -1,0 +1,92 @@
+[
+    {
+        "p_name": "Apple",
+        "p_image": "assets/images/apple.jpg",
+        "p_id": 1,
+        "p_cost": 30,
+        "p_availability": 1,
+        "p_details": "Imported from Swiss",
+        "p_category": "Premium",
+        "p_qty": 0
+    },
+    {
+        "p_name": "Mango",
+        "p_image": "assets/images/mango.jpg",
+        "p_id": 2,
+        "p_cost": 50,
+        "p_availability": 1,
+        "p_details": "Farmed at Selam",
+        "p_category": "Tamilnadu",
+        "p_qty": 0
+    },
+    {
+        "p_name": "Banana",
+        "p_image": "assets/images/banana.jpg",
+        "p_id": 3,
+        "p_cost": 5,
+        "p_availability": 0,
+        "p_category": "Jalgaon",
+        "p_details": "Imported from Jalgaon",
+        "p_qty": 0
+    },
+    {
+        "p_name": "Orange",
+        "p_image": "assets/images/orange.jpg",
+        "p_id": 4,
+        "p_cost": 25,
+        "p_availability": 1,
+        "p_details": "Imported from Florida",
+        "p_category": "Citrus",
+        "p_qty": 0
+    },
+    {
+        "p_name": "Grapes",
+        "p_image": "assets/images/grape.jpg",
+        "p_id": 5,
+        "p_cost": 40,
+        "p_availability": 1,
+        "p_details": "Local produce",
+        "p_category": "Wine",
+        "p_qty": 0
+    },
+    {
+        "p_name": "Strawberry",
+        "p_image": "assets/images/strawberry.jpg",
+        "p_id": 6,
+        "p_cost": 45,
+        "p_availability": 1,
+        "p_details": "Freshly harvested",
+        "p_category": "Berry",
+        "p_qty": 0
+    },
+    {
+        "p_name": "Pineapple",
+        "p_image": "assets/images/pineapple.jpg",
+        "p_id": 7,
+        "p_cost": 20,
+        "p_availability": 1,
+        "p_details": "From Costa Rica",
+        "p_category": "Tropical",
+        "p_qty": 0
+    },
+    {
+        "p_name": "Kiwi",
+        "p_image": "assets/images/kiwi.jpg",
+        "p_id": 9,
+        "p_cost": 35,
+        "p_availability": 1,
+        "p_details": "Imported from New Zealand",
+        "p_category": "Exotic",
+        "p_qty": 0
+    },
+    {
+        "p_name": "Peach",
+        "p_image": "assets/images/peach.jpg",
+        "p_id": 10,
+        "p_cost": 40,
+        "p_availability": 1,
+        "p_details": "Farmed locally",
+        "p_category": "Stone Fruit",
+        "p_qty": 0
+    }
+]
